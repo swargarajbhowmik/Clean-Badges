@@ -36,10 +36,19 @@ Themes are available <a href="#themes">here</a>!
 
 | Name | Badge | Markdown Code |
 |---|---|---|
-| Apple | <img src="https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple" width="100%" height="100%"> | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple)```
+| Apple | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple)```
 | Apple Dark | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 | AWS | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=aws&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
-
+| Bitcoin | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=Bitcoin&icon=Bitcoin&bgcolor=f2a900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| Bootstrap | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=Bootstrap&icon=Bootstrap&bgcolor=563D7C&textcolor=fff&iconcolor=light) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| BTC | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=BTC&bgcolor=FF9900&textcolor=f2a900&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| Chrome | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=Chrome&bgcolor=4285F4&textcolor=fff&iconcolor=light) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| cPanel | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=cPanel&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| CSS3 | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=CSS3&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| Google | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=Google&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| HTML5 | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=HTML5&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| Telegram | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=Telegram&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
+| Twitter | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=Twitter&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 
 
 ## License
