@@ -10,11 +10,11 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 
 ## Theme
 
-| Theme | Name | Demo |
+| Theme | Name | Code | Demo |
 |---|---|---|
-| <img src="https://i.imgur.com/IugzQk5.png"> | Simple | <a href="https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=twitter">View Demo</a> |
-| <img src="https://imgur.com/CyMjWlN.png"> | Ocean | <a href="https://practicing-wrists.000webhostapp.com/ocean.php?text=Twitter&icon=twitter">View Demo</a> |
-| <img src="https://i.imgur.com/LGDNeV0.png"> | Gradient Bordered 1 | <a href="https://practicing-wrists.000webhostapp.com/gradient-bordered-1.php?text=Twitter&icon=twitter">View Demo</a> |
+| <img src="https://i.imgur.com/IugzQk5.png"> | Simple | `![](https://practicing-wrists.000webhostapp.com/simple.php?text={text}&icon={icon})` | <a href="https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=twitter">View Demo</a> |
+| <img src="https://imgur.com/CyMjWlN.png"> | Ocean | `![](https://practicing-wrists.000webhostapp.com/simple.php?text={text}&icon={icon})` | <a href="https://practicing-wrists.000webhostapp.com/ocean.php?text=Twitter&icon=twitter">View Demo</a> |
+| <img src="https://i.imgur.com/LGDNeV0.png"> | Gradient Bordered 1 | `![](https://practicing-wrists.000webhostapp.com/simple.php?text={text}&icon={icon})` | <a href="https://practicing-wrists.000webhostapp.com/gradient-bordered-1.php?text=Twitter&icon=twitter">View Demo</a> |
 
 ## License
 Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
