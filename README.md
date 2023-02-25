@@ -6,6 +6,7 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 ## Table of contents
 - [Themes](#themes)
 - [API Breakdown](#api-Breakdown)
+- [Available Icons](#icons)
 - [License](#license)
 - [Credits](#credits)
 
@@ -22,7 +23,7 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 This section provides a comprehensive overview of the various parameter that are available in this badge API.
 
 API URL: https://practicing-wrists.000webhostapp.com/{THEME_NAME}.php
-![Themes are available here!](#themes)
+Themes are available <a href="#themes">here</a>!
 
 **Available Parameters**
 - `?text={YOUR_TEXT}` This parameter takes "YOUR_TEXT" as input and display it in the badge. (Required)
@@ -30,7 +31,16 @@ API URL: https://practicing-wrists.000webhostapp.com/{THEME_NAME}.php
 - `&textcolor={HEX_COLOR}` This parameter takes hex color as input and change the color of the text. Don't use "#", Example: FF0000. (Optional)
 - `&bordercolor={HEX_COLOR}` This parameter takes hex color as input and change the color of the bordercolor. Don't use "#", Example: FF0000. Not all theme supports this parameter. Only `bordered` supports it. (Optional)
 - `&iconcolor={dark/light}` This parameter can take either dark or light as input and change the color of the icon to black and white respectively. (Optional)
-  
+
+## Available Icons
+
+| Name | Badge | Markdown Code |
+|---|---|---|
+| Apple | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple)```
+| Apple Dark | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolorfff&iconcolor=white) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolorfff&iconcolor=white)```
+
+
+
 ## License
 Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
 
