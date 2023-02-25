@@ -4,8 +4,17 @@
 Clean Badges is a simple and intuitive tool designed to help GitHub users add professional eye-catching badges to their profile/project's readme files. These badges are designed to be sleek and modern, allowing your project to stand out and showcase its status in a clear and concise manner. 
 
 ## Table of contents
+- [Theme](#theme)
 - [License](#license)
 - [Credits](#credits)
+
+## Theme
+
+| Theme | Name | Demo |
+|---|---|---|
+| <img src="https://i.imgur.com/IugzQk5.png"> |Simple | <a href="https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=twitter">View Demo</a>
+|||
+|||
 
 ## License
 Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
