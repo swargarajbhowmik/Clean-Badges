@@ -26,10 +26,10 @@ API URL: https://practicing-wrists.000webhostapp.com/{THEME_NAME}.php
 
 **Available Parameters**
 - `?text={YOUR_TEXT}` This parameter takes "YOUR_TEXT" as input and display it in the badge. (Required)
-- `&icon={YOUR_TEXT}` This parameter takes "YOUR_TEXT" as input and display it in the badge. (Optional)
-- `&textcolor={YOUR_TEXT}` This parameter takes "YOUR_TEXT" as input and display it in the badge. (Optional)
-- `&bordercolor={YOUR_TEXT}` This parameter takes "YOUR_TEXT" as input and display it in the badge. (Optional)
-- `&iconcolor={YOUR_TEXT}` This parameter takes "YOUR_TEXT" as input and display it in the badge. (Optional)
+- `&icon={ICON_NAME}` This parameter takes "ICON_NAME" as input and display it in the badge. <a href="#icons">Here</a> is the list of all available icons! (Optional)
+- `&textcolor={HEX_COLOR}` This parameter takes hex color as input and change the color of the text. Don't use "#", Example: FF0000. (Optional)
+- `&bordercolor={HEX_COLOR}` This parameter takes hex color as input and change the color of the bordercolor. Don't use "#", Example: FF0000. Not all theme supports this parameter. Only `bordered` supports it. (Optional)
+- `&iconcolor={dark/light}` This parameter can take either dark or light as input and change the color of the icon to black and white respectively. (Optional)
   
 ## License
 Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
