@@ -10,7 +10,7 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 
 ## Theme
 
-| Theme | Name  Demo |
+| Theme | Name | Demo |
 |---|---|---|
 | <img src="https://i.imgur.com/IugzQk5.png"> | Simple | <a href="https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=twitter">View Demo</a> |
 | <img src="https://imgur.com/CyMjWlN.png"> | Ocean | <a href="https://practicing-wrists.000webhostapp.com/ocean.php?text=Twitter&icon=twitter">View Demo</a> |
