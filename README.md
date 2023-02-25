@@ -36,7 +36,7 @@ Themes are available <a href="#themes">here</a>!
 
 | Name | Badge | Markdown Code |
 |---|---|---|
-| Apple | <img src="https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple" height="40"> | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple)```
+| Apple | <img src="https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple" width="100%" height="100%"> | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple)```
 | Apple Dark | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 | AWS | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=aws&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 
