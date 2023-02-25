@@ -10,11 +10,9 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 
 ## Theme
 
-| Theme | Name | Demo |
+| Theme | Name | Code | Demo |
 |---|---|---|
-| <img src="https://i.imgur.com/IugzQk5.png"> |Simple | <a href="https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=twitter">View Demo</a>
-|||
-|||
+| <img src="https://i.imgur.com/IugzQk5.png"> | Simple | `https://practicing-wrists.000webhostapp.com/simple.php?text=(text)&icon={iconname}` | <a href="https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=twitter">View Demo</a>
 
 ## License
 Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
