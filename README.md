@@ -8,6 +8,7 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 - [Themes](#themes)
 - [API Breakdown](#api-Breakdown)
 - [Icons](#icons)
+- [Version History](#version-history)
 - [License](#license)
 - [Credits](#credits)
 
