@@ -1,4 +1,4 @@
-![](https://github.com/swargarajbhowmik/Clean-Badges/blob/main/featured-2.png?raw=true){width=100%}
+<img src="https://github.com/swargarajbhowmik/Clean-Badges/blob/main/featured-2.png?raw=true"  width="100%">
 
 # Clean-Badges
 Clean Badges is a simple and intuitive tool designed to help GitHub users add professional eye-catching badges to their profile/project's readme files. These badges are designed to be sleek and modern, allowing your project to stand out and showcase its status in a clear and concise manner. 
