@@ -1,14 +1,15 @@
-<style>
-img{
-    border-radius: 20px !important
-}
-</style>
-
-
 <img src="https://github.com/swargarajbhowmik/Clean-Badges/blob/main/featured-2.png?raw=true">
 
-
 # Clean-Badges
+Clean Badges is a simple and intuitive tool designed to help GitHub users add professional eye-catching badges to their profile/project's readme files. These badges are designed to be sleek and modern, allowing your project to stand out and showcase its status in a clear and concise manner. 
 
 ## Table of contents
-- [Usage](#usage)
+- [License](#license)
+- [Credits](#credits)
+
+## License
+Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
+
+## Credits
+- README.md inspired by <a href="https://github.com/Ileriayo/">@Ileriayo</a>
+- Project inspired by <a href="https://github.com/badges/shields">@shields.io</a>
