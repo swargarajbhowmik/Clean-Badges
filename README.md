@@ -6,7 +6,7 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 ## Table of contents
 - [Themes](#themes)
 - [API Breakdown](#api-Breakdown)
-- [Available Icons](#icons)
+- [Icons](#icons)
 - [License](#license)
 - [Credits](#credits)
 
@@ -32,11 +32,11 @@ Themes are available <a href="#themes">here</a>!
 - `&bordercolor={HEX_COLOR}` This parameter takes hex color as input and change the color of the bordercolor. Don't use "#", Example: FF0000. Not all theme supports this parameter. Only `bordered` supports it. (Optional)
 - `&iconcolor={dark/light}` This parameter can take either dark or light as input and change the color of the icon to black and white respectively. (Optional)
 
-## Available Icons
+## Icons
 
 | Name | Badge | Markdown Code |
 |---|---|---|
-| Apple | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple)```
+| Apple | <img src="https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple" height="40"> | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple)```
 | Apple Dark | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 | AWS | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=aws&icon=aws&bgcolor=FF9900&textcolor=000&iconcolor=dark) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 
