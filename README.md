@@ -7,6 +7,7 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 - [Themes](#themes)
 - [API Breakdown](#api-Breakdown)
 - [Icons](#icons)
+- [Special Badges](#special-badges)
 - [License](#license)
 - [Credits](#credits)
 
@@ -504,6 +505,9 @@ Themes are available <a href="#themes">here</a>!
 | Yoast | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=yoast&icon=yoast) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=Yoast&icon=yoast)```
 | Youtube | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=youtube&icon=youtube) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=Youtube&icon=youtube)```
 | Zhihu | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=zhihu&icon=zhihu) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=Zhihu&icon=zhihu)```
+
+## Special Badges
+Coming Soon
 
 ## License
 Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
