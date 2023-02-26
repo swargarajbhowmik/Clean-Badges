@@ -1,14 +1,12 @@
 <img src="https://github.com/swargarajbhowmik/Clean-Badges/blob/main/featured-2.png?raw=true"  width="100%">
 
 # Clean-Badges (BETA - Buggy)
-<a href="https://clean-badges.is-an.app">Visit Official Site</a> (Coming Soon!)
 Clean Badges is a simple and intuitive tool designed to help GitHub users add professional eye-catching badges to their profile/project's readme files. These badges are designed to be sleek and modern, allowing your project to stand out and showcase its status in a clear and concise manner. 
 
 ## Table of contents
 - [Themes](#themes)
 - [API Breakdown](#api-Breakdown)
 - [Icons](#icons)
-- [Version History](#version-history)
 - [License](#license)
 - [Credits](#credits)
 
@@ -17,6 +15,7 @@ Clean Badges is a simple and intuitive tool designed to help GitHub users add pr
 | Theme | Theme Name | Code | Demo |
 |---|---|---|---|
 | <img src="https://i.imgur.com/IugzQk5.png"> | Simple | `![](https://practicing-wrists.000webhostapp.com/simple.php?text={text}&icon={icon})` | <a href="https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=twitter">View Demo</a> |
+| <img src="https://imgur.com/CyMjWlN.png"> | Simple (Dark) | `![](https://practicing-wrists.000webhostapp.com/simple.php?text={text}&icon={icon})` | <a href="https://practicing-wrists.000webhostapp.com/ocean.php?text=Twitter&icon=twitter&iconcolor=light&bgcolor=000&textcolor=fff">View Demo</a> |
 | <img src="https://imgur.com/CyMjWlN.png"> | Ocean | `![](https://practicing-wrists.000webhostapp.com/simple.php?text={text}&icon={icon})` | <a href="https://practicing-wrists.000webhostapp.com/ocean.php?text=Twitter&icon=twitter">View Demo</a> |
 | <img src="https://i.imgur.com/LGDNeV0.png"> | Gradient Bordered 1 | `![](https://practicing-wrists.000webhostapp.com/simple.php?text={text}&icon={icon})` | <a href="https://practicing-wrists.000webhostapp.com/gradient-bordered-1.php?text=Twitter&icon=twitter">View Demo</a> |
 | <img src="https://imgur.com/sGqorNo.png"> | Bordered | Coming Soon | Coming Soon |
@@ -52,15 +51,6 @@ Themes are available <a href="#themes">here</a>!
 | Telegram | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=Telegram&icon=Telegram&bgcolor=229ED9&textcolor=fff&iconcolor=light) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 | Twitter | ![](https://practicing-wrists.000webhostapp.com/simple.php?text=Twitter&icon=Twitter&bgcolor=00acee&textcolor=fff&iconcolor=light) | ```![](https://practicing-wrists.000webhostapp.com/simple.php?text=apple&icon=apple&bgcolor=000&textcolor=fff&iconcolor=light)```
 
-
-## Version History
-
-#### Pre Release v1 (25th February, 2023)
-
-Pre Release v1 of the Clean Badges project is an early version of the project that provides GitHub users with a simple and intuitive tool for adding professional-looking badges to their project's readme files.
-This pre-release version includes a variety of customizable badges, which includes support for 3 different themes and 12 different icons.
-While this version is still under development and may contain some bugs or other issues, it is intended to provide users with a preview of the features and functionality that will be available in the final release.
-By releasing this pre-release version, the development team (i.e me lol) is seeking feedback from users and engaging with the community to ensure that the final product meets the needs of its users.
 
 ## License
 Clean Badges is licensed under the permissive MIT License, allowing users to use, modify, and distribute the software for both personal and commercial purposes.
